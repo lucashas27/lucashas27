@@ -18,8 +18,7 @@ I´m a Brazilian 19 y.o student in process of turning into a fullstack junior de
 
 - 🚀 I’m currently enrolled on Launchbase Bootcamp from Rocketseat 
 - 📚 Studing Technologies: Javascript, HTML, CSS, Node, React.
-- 👀 Looking for an opportunity in the dev world.
-- 🖨 Currently working at Sarah Hospital as Computer Hardware Maintenance Technician.
+- 🖨 Currently working at CI&T as Developer Intern
 
 <br><br>
 <hr>
