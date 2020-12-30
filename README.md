@@ -10,7 +10,7 @@
 #### I'm Lucas Alves, 
 
 <br>
-I´m a Brazilian 19 y.o student in process of turning into a fullstack junior dev. Systems Analysis and Development student at Newton Paiva College. You can see some of my projects on my github profile 😉
+I´m a Brazilian 20 y.o student in process of turning into a fullstack junior dev. Systems Analysis and Development student at Newton Paiva College. You can see some of my projects on my github profile 😉
 
 
 <br><br>
