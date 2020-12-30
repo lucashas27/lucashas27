@@ -18,7 +18,7 @@ I´m a Brazilian 19 y.o student in process of turning into a fullstack junior de
 
 - 🚀 I’m currently enrolled on Launchbase Bootcamp from Rocketseat 
 - 📚 Studing Technologies: Javascript, HTML, CSS, Node, React.
-- 🖨 Currently working at CI&T as Developer Intern
+- 🖨 Starting in an internship program in February at CI&T as Developer 
 
 <br><br>
 <hr>
