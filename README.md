@@ -10,15 +10,15 @@
 #### I'm Lucas Alves, 
 
 <br>
-I´m a Brazilian 20 y.o student in process of turning into a fullstack junior dev. Systems Analysis and Development student at Newton Paiva College. You can see some of my projects on my github profile 😉
+I´m a Brazilian 20 y.o working as Intern Developer (FullStack - React and PHP/Drupal.) at <a href="http://us.ciandt.com/" CI&T.> Systems Analysis and Development student at Newton Paiva College. You can see some of my projects on my github profile 😉
 
 
 <br><br>
 
 
-- 🚀 I’m currently enrolled on Launchbase Bootcamp from Rocketseat 
-- 📚 Studing Technologies: Javascript, HTML, CSS, Node, React.
-- 🖨 Starting in an internship program in February at CI&T as Developer 
+- 🚀 I’m currently enrolled on Ignite Bootcamp - React Trail from Rocketseat 
+- 📚 Studing Technologies: Javascript, HTML, CSS, Node, React, Drupal, PHP.
+- 🖨 Intern Developer at CI&T. Working with React, PHP and Drupal.
 
 <br><br>
 <hr>
