@@ -18,7 +18,7 @@ I´m a Brazilian 20 y.o working as Intern Developer (FullStack - React and PHP/D
 
 - 🚀 I’m currently enrolled on Ignite Bootcamp - React Trail from Rocketseat 
 - 📚 Studing Technologies: Javascript, HTML, CSS, Node, React, Drupal, PHP.
-- 🖨 Intern Developer at CI&T since 03/2021. Working with React, PHP and Drupal.
+- 🖨 Intern Developer since 03/2021. Working with React, PHP and Drupal.
 
 <br><br>
 <hr>
