@@ -10,7 +10,7 @@
 #### I'm Lucas Alves, 
 
 <br>
-I´m a Brazilian 20 y.o working as Intern Developer (FullStack - React and PHP/Drupal.) at <a href="http://us.ciandt.com/"> CI&T. </a> Systems Analysis and Development student at Newton Paiva College. You can see some of my projects on my github profile 😉
+I´m a Brazilian 20 y.o working as Intern Developer (FullStack - React and PHP/Drupal.) </a> Systems Analysis and Development student at Newton Paiva College. You can see some of my projects on my github profile 😉
 
 
 <br><br>
